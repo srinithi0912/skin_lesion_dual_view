@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+ultralytics
+scikit-learn
+scikit-image
+opencv-python
+numpy
+pandas
+matplotlib
+shap
+tqdm
