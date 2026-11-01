@@ -96,6 +96,9 @@ Test-time augmentation (horizontal and vertical flips) did not improve results (
 ├── full_pipeline.ipynb
 └── LICENSE
 ```
+## License
+
+This project is licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](LICENSE).
 
 ## Licenses and third-party terms
 
