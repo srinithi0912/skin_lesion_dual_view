@@ -93,14 +93,14 @@ Test-time augmentation (horizontal and vertical flips) did not improve results (
 .
 ├── README.md
 ├── requirements.txt
-├── <full_pipeline>.ipynb
+├── full_pipeline.ipynb
 └── LICENSE
 ```
 
 ## Licenses and third-party terms
 
 - Code: APACHE-2.0
-- Ultralytics YOLOv8 is released under APACHE-2.0. Check its terms before redistributing code or weights derived from it.
+- Ultralytics YOLOv8 is released under AGPL-3.0. Check its terms before redistributing code or weights derived from it.
 - HAM10000: CC BY-NC 4.0. Use is non-commercial.
 
 ## Citation
